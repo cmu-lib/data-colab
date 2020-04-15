@@ -811,7 +811,7 @@
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			background-color: #006677;
+			background-color: #182C4B;
 			text-decoration: none;
 		}
 
@@ -819,7 +819,7 @@
 		input[type="reset"]:active,
 		input[type="button"]:active,
 		.button:active {
-			background-color: #006677;
+			background-color: #182C4B;
 			text-decoration: none;
 		}
 
